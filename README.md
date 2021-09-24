@@ -1,3 +1,3 @@
 # projetos_letscode
 
-Primeiro projeto feito no curso. Utilização de funções
+Projeto 1 - 1º Módulo | Data Science Degree na Let's Code
